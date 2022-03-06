@@ -18,4 +18,4 @@ And finally, dove into the css and made the necessary changes, after adding the 
 ![Snapshot of Webpage](https://tmenture.github.io/Thomas-Menture-HoriseonSEOpage/Develop/assets/images/website_1.jpg)
 
 #### Here you will find a link to said page:
-    -(https://tmenture.github.io/Thomas-Menture-HoriseonSEOpage/)
+    (https://tmenture.github.io/Thomas-Menture-HoriseonSEOpage/)
